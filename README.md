@@ -1,10 +1,5 @@
 # رسالة - تطبيق القرآن الكريم
 
-<p align="center">
-  <img src="Imgs/1.jpg" width="250"/>
-  <img src="Imgs/2.jpg" width="250"/>
-  <img src="Imgs/3.jpg" width="250"/>
-</p>
 
 ---
 
