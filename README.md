@@ -16,7 +16,7 @@
 ## التحميل
 
 <p align="center">
-  <a href="PUT_YOUR_DOWNLOAD_LINK_HERE">
+  <a href="https://raw.githubusercontent.com/thabat-star/Resala/main/release.apk">
     <img src="https://img.shields.io/badge/Download-App-blue?style=for-the-badge&logo=android"/>
   </a>
 </p>
